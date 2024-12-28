@@ -6,15 +6,15 @@
 [![Português](./assets/icons/flags/pt.png)](README_pt.md)
 -->
 
-<img src="./assets/logos/datorum.png" 
-        alt="DATORUM" 
-        style="display: block; margin: 0 auto" />
+<p style="text-align:center;">
+  <img src="./assets/logos/datorum.png" alt="DATORUM" />
+</p>
 
 # Welcome 👋
 
 I am an **Information Security Specialist** dedicated to **making cybersecurity simple** through practical, hands-on projects and clear, accessible explanations. This repository highlights my work and aims to make complex concepts both approachable and actionable for learners and professionals alike, in order to inspire and empower others to explore this fascinating field.
 
-Here, you’ll find **mock pentests**, **security labs**, **real-world simulations**, and **concise guides** explaining key concepts in cybersecurity. Whether you're looking for in-depth projects or quick insights, everything here is free to use, share, and collaborate on. Feel free to explore and reach out with questions or feedback!
+Here, you'll find **mock pentests**, **security labs**, **real-world simulations**, and **concise guides** explaining key concepts in cybersecurity. Whether you're looking for in-depth projects or quick insights, everything here is free to use, share, and collaborate on. Feel free to explore and reach out with questions or feedback!
 
 ---
 
