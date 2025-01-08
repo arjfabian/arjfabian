@@ -29,11 +29,13 @@ Here, you'll find **mock pentests**, **security labs**, **real-world simulations
   - Multilingual Communication  
 
 - **Programming Languages**:
-  - C
-  - Delphi
-  - JavaScript
-  - PHP
+  - JavaScript (Nest.js, Next.js, Node.js)
   - Python
+  - HTML, CSS
+  - PHP
+  - C
+  - Assembly
+  - Delphi
   - Visual Basic
 
 ---
