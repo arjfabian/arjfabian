@@ -6,10 +6,6 @@
 [![Português](./assets/icons/flags/pt.png)](README_pt.md)
 -->
 
-<p style="text-align:center;">
-  <img src="./assets/logos/datorum.png" alt="DATORUM" />
-</p>
-
 # Welcome 👋
 
 I am an **Information Security Specialist** dedicated to **making cybersecurity simple** through practical, hands-on projects and clear, accessible explanations. This repository highlights my work and aims to make complex concepts both approachable and actionable for learners and professionals alike, in order to inspire and empower others to explore this fascinating field.
