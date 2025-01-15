@@ -42,8 +42,8 @@ Here, you'll find **mock pentests**, **security labs**, **real-world simulations
 
 ## 📚 Labs and Projects
 
-1. **[TBA]()**  
-   Details for this project will be announced soon!
+1. **Coding: Somnologia**
+   A personal journal with AI-powered dream analysis to help you uncover the mysteries of your subconscious.
 
 2. **[TBA]()**  
    Details for this project will be announced soon!
