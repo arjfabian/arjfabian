@@ -47,8 +47,8 @@ def search_in_dictionary(word):
       - Subsequent elements: Definitions of the word if found, 
                               or possible close matches if not found.
   """
-  with open(SOURCE_DICT) as f:
-    data = json.load(f)
+  with open(SOURCE_DICT) as source_dict:
+    data = json.load(source_dict)
 
   # Sort keys case-insensitively
   sorted_keys = sorted(data.keys(), key=str.lower) 
