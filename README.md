@@ -8,9 +8,9 @@
 
 # Welcome 👋
 
-I am an **Information Security Specialist** dedicated to **making cybersecurity simple** through practical, hands-on projects and clear, accessible explanations. This repository highlights my work and aims to make complex concepts both approachable and actionable for learners and professionals alike, in order to inspire and empower others to explore this fascinating field.
+I'm an **Information Security Specialist** focused on making cybersecurity **practical** and **accessible**. In this repo I share **hands-on projects**, **mock pentests**, **security labs**, and **real-world simulations**—designed to help others learn, explore, and apply key concepts with clarity and purpose.
 
-Here, you'll find **mock pentests**, **security labs**, **real-world simulations**, and **concise guides** explaining key concepts in cybersecurity. Whether you're looking for in-depth projects or quick insights, everything here is free to use, share, and collaborate on. Feel free to explore and reach out with questions or feedback!
+Whether you're diving into detailed projects or just looking for quick insights, everything here is free to use, adapt, and build upon. Feedback and collaboration are always welcome—feel free to explore and reach out!
 
 ---
 
