@@ -1,68 +1,81 @@
-<!--
-**Available Languages**
-
-[![English](./assets/icons/flags/gb.png)](README.md)
-[![Español](./assets/icons/flags/es.png)](README_es.md)
-[![Português](./assets/icons/flags/pt.png)](README_pt.md)
--->
-
-# Welcome 👋
-
-I am an **Information Security Specialist** dedicated to **making cybersecurity simple** through practical, hands-on projects and clear, accessible explanations. This repository highlights my work and aims to make complex concepts both approachable and actionable for learners and professionals alike, in order to inspire and empower others to explore this fascinating field.
-
-Here, you'll find **mock pentests**, **security labs**, **real-world simulations**, and **concise guides** explaining key concepts in cybersecurity. Whether you're looking for in-depth projects or quick insights, everything here is free to use, share, and collaborate on. Feel free to explore and reach out with questions or feedback!
+<div align="center">
+    <img src="./assets/icons-flags/gb.png" alt="English" />
+    <img src="./assets/icons-flags/_.png" />
+    <a href="README_es.md"><img src="./assets/icons-flags/es.png" style="filter:opacity(0.25)" alt="Español" /></a>  
+    <img src="./assets/icons-flags/_.png" />
+    <a href="README_pt.md"><img src="./assets/icons-flags/pt.png" style="filter:opacity(0.25)" alt="Português" /></a>
+</div>
 
 ---
 
-## 🛠️ Skills and Expertise
+# Hi, I'm José 👋
 
-- **Technical Skills**:
-  - Penetration Testing (Web, Network, Application)
-  - Vulnerability Analysis and Mitigation
-  - Lab Setup and Simulation Environments (Virtual Machines, Docker)
-  - Programming: Python, Bash, PHP
-  - Security Tools: Nmap, Metasploit, Burp Suite, etc.
-
-- **Soft Skills**:
-  - Problem Solving and Critical Thinking
-  - Collaboration and Mentoring
-  - Multilingual Communication  
-
-- **Programming Languages**:
-  - JavaScript (Nest.js, Next.js, Node.js)
-  - Python
-  - HTML, CSS
-  - PHP
-  - C
-  - Assembly
-  - Delphi
-  - Visual Basic
+Welcome to my GitHub portfolio! This repository serves as an entry hub for my professional work, showcasing my expertise in **Backend Software Development**, **Automation Engineering**, and **IT Infrastructure & Security**. Here you will find **Programming Labs** and **Write-ups** for challenges from famous sites, like PicoCTF, HackerRank and LeetCode.
 
 ---
 
-## 📚 Labs and Projects
+## 🚀 About Me
 
-1. **Coding: Somnologia**
-   A personal journal with AI-powered dream analysis to help you uncover the mysteries of your subconscious.
+I am an IT professional with over 15 years in the industry, specializing in crafting robust software solutions and optimizing complex systems. My passion lies in leveraging technology to streamline operations, enhance process efficiency, and build secure, scalable applications.
 
-2. **[TBA]()**  
-   Details for this project will be announced soon!
+My background includes:
 
-3. **[TBA]()**  
-   Details for this project will be announced soon!
+- **Backend Development:** Designing and maintaining high-performance APIs, with focus on **Python (Flask, FastAPI)** and **JavaScript (Node.js)** environments.
 
----
+- **Automation Engineering:** Developing powerful automation tools and scripts using **Python**, **Bash**, and **PowerShell** to significantly reduce manual effort and improve operational reliability.
 
-## 📩 Contact Me
+- **System Optimization:** Analyzing processes, identifying bottlenecks, and implementing solutions that lead to quantifiable improvements in efficiency and performance.
 
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/arjfabian/)
+- **Security-First Mindset:** Integrating security best practices into every stage of the software development lifecycle (SDLC) and infrastructure management.
 
-<!-- <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-
-<!-- **Website**: [My Personal Website](https://yourwebsite.com) -->
+I hold a degree in Systems Analysis and Development with a specialization in Information Security, and I'm committed to continuous learning, regularly expanding my skillset in cutting-edge technologies and methodologies.
 
 ---
 
-## 📝 Licensing and Acknowledgments
+## 🛠️ Technical Skills
 
-<!-- All content in this repository is open-source under the [MIT License](LICENSE). Feel free to use it for educational purposes. -->
+My technical proficiency spans a wide range of tools and technologies:
+
+- **Programming Languages:** Python, JavaScript, SQL, Bash, PowerShell, VBA, Delphi
+
+- **Backend Frameworks:** Flask, FastAPI, Django, Node.js
+
+- **Databases:** MariaDB, PostgreSQL, MySQL, SQL Server, MongoDB (NoSQL)
+
+- **Cloud & Virtualization:** AWS, Docker, QEMU/KVM, VMware
+
+- **Security Tools:** Metasploit, Wireshark, Nmap, ESET Endpoint Security, Firewalls, VPN
+
+- **Version Control:** Git
+
+- **Methodologies:** Agile/Scrum, RESTful API design, API Security & Documentation
+
+---
+
+## ✨ Featured Projects
+
+These are some projects that I made to showcase my skills and learn new ones along the way. Click on the links to head to their repos!
+
+- **[Project 1](#)**
+
+  _Available soon!_
+
+- **[Project 2](#)**
+
+  _Available soon!_
+
+- **[Project 3](#)**
+
+  _Available soon!_
+
+---
+
+## 💬 Let's Connect!
+
+I'm always open to discussing new opportunities, exploring partnership proposals, or just sharing insights. You can find me at:
+
+- **LinkedIn:** [linkedin.com/in/arjfabian](https://www.linkedin.com/in/arjfabian)
+
+- **GitHub:** [github.com/arjfabian](https://github.com/arjfabian)
+
+- **Email:** [jfabian@datorum.net](mailto:jfabian@datorum.net)
