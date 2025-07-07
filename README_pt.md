@@ -1,9 +1,9 @@
 <div align="center">
-    <a href="README.md"><img src="./assets/icons-flags/gb.png" style="filter:opacity(0.25)" alt="English" /></a>
+    <a href="README.md"><img src="./assets/icons-flags/gb0.png" alt="English" /></a>
     <img src="./assets/icons-flags/_.png" />
-    <a href="README_es.md"><img src="./assets/icons-flags/es.png" style="filter:opacity(0.25)" alt="Español" /></a>  
+    <a href="README_es.md"><img src="./assets/icons-flags/es0.png" alt="Español" /></a>  
     <img src="./assets/icons-flags/_.png" />
-    <img src="./assets/icons-flags/pt.png" alt="Português" />
+    <img src="./assets/icons-flags/pt1.png" alt="Português" />
 </div>
 
 ---
