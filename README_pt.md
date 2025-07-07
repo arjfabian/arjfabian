@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="README.md"><img src="./assets/icons-flags/gb0.png" alt="English" /></a>
+    <a href="README.md"><img src="./assets/icons-flags/en0.png" alt="English" /></a>
     <img src="./assets/icons-flags/_.png" />
     <a href="README_es.md"><img src="./assets/icons-flags/es0.png" alt="Español" /></a>  
     <img src="./assets/icons-flags/_.png" />
