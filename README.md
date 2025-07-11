@@ -56,9 +56,9 @@ My technical proficiency spans a wide range of tools and technologies:
 
 These are some projects that I made to showcase my skills and learn new ones along the way. Click on the links to head to their repos!
 
-- **[Project 1](#)**
+- **Somnologia: [Backend](https://github.com/arjfabian/somnologia-backend) | [Frontend](https://github.com/arjfabian/somnologia-frontend)**
 
-  _Available soon!_
+  A personal dream journal with AI-powered interpretations.
 
 - **[Project 2](#)**
 

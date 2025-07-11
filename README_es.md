@@ -56,9 +56,9 @@ Mis competencias técnicas abordan una amplia gama de herramientas y tecnología
 
 Aquí hay algunos proyectos que creé para demostrar mis habilidades y adquirir otras nuevas en el proceso. ¡Haz clic en los links para visitar los repositorios!
 
-- **[Proyecto 1](#)**
+- **Somnologia: [Backend](https://github.com/arjfabian/somnologia-backend) | [Frontend](https://github.com/arjfabian/somnologia-frontend)**
 
-  _¡Disponible en breve!_
+  Un diario de sueños personal con interpretaciones generadas por IA.
 
 - **[Proyecto 2](#)**
 
